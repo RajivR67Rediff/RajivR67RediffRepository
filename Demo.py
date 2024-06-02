@@ -1,5 +1,2 @@
-print("Hello"
-      ""
-      ""
-      "gggggggggggggggggo")
+print("Changes done in rediff by RRtrade")
 
